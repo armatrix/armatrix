@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on IPFS and Filecoin
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Web3.0 App devs
-- 🤔 I’m looking for help with ROS and some CS problems
-- 💬 Ask me about ... why don't you try google, that guy knows more and better
-- 😄 2020 Goals: acquire a good understanding in basic computer theory[GoForIt]
-- ⚡ Fun fact: love history and tech
+- 👯 I’m looking to collaborate on Web3.0 App Devs
+- 🤔 I’m looking for ...
+- 💬 Ask me about ... I know nothing
+- 😄 2020 Goals: alive
+- ⚡ Fun fact: love history and Tech
 
 ### Contact me
 
