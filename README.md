@@ -8,7 +8,7 @@
 - 😄 2020 Goals: acquire a good understanding in basic computer theory[GoForIt]
 - ⚡ Fun fact: love history and tech
 
-### Connect with me:
+### Contact me
 
 [<img align="left" alt="wechat" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/wechat.svg" />][mygithub] IPFSIPFS
 
