@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="wechat" width="26px" src="./README.assets/wechat.svg" />: IPFSIPFS
+<img align="left" alt="wechat" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/wechat.svg" />: IPFSIPFS
 
 ### Languages and Tools
 <img align="left" alt="golang" width="26px" src="./README.assets/go.svg" />
