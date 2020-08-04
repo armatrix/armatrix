@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-<img align="left" alt="wechat" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/wechat.svg" /> IPFSIPFS
+[<img align="left" alt="wechat" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/wechat.svg" />][] IPFSIPFS
 
 ### Languages and Tools
-<img align="left" alt="golang" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/go.svg" />
+[<img align="left" alt="golang" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/go.svg" />][go]
 <img align="left" alt="docker" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/docker.svg" />
 <img align="left" alt="kubernets" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/k8s.png" />
 <img align="left" alt="rust" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/rust.svg" />
@@ -27,3 +27,4 @@
 <img align="left" alt="redis" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/redis.svg" />
 
 
+[go]:https://github.com/golang/go
