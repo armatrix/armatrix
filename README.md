@@ -10,8 +10,9 @@
 
 ### Contact me
 
-[<img align="left" alt="wechat" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/wechat.svg" />][mygithub] ipfsipfs
-[<img align="left" alt="wechat" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/telegram.png" />][mygithub] ipfsipfs
+[<img align="left" alt="wechat:ipfsipfs" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/wechat.svg" />][mygithub] ipfsipfs
+
+[<img align="left" alt="wechat:ipfsipfs" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/telegram.png" />][mygithub] ipfsipfs
 
 ### Languages and Tools
 [<img align="left" alt="golang" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/go.svg" />][go]
