@@ -1,6 +1,6 @@
 ### Hi there, I'm Aaron.👋
 
-- 🔭 I’m currently working on IPFS and Filecoin
+- 🔭 I’m currently working on IPFS and Filecoin, substrate
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Web3.0 App Devs
 - 🤔 I’m looking for ...
