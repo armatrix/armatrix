@@ -1,18 +1,17 @@
 ### Hi there, I'm Aaron.👋
 
-- 🔭 I’m currently working on IPFS and Filecoin, substrate
+- 🔭 I’m currently working on substrate, my own project -- mybank.network
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Web3.0 App Devs
 - 🤔 I’m looking for ...
 - 💬 Ask me about ... I know nothing
-- 😄 2020 Goals: alive
+- 😄 2021 Goals: mybank.network online and have 100k users
 - ⚡ Fun fact: love history and Tech
 
 ### Contact me
 
 [<img align="left" alt="wechat:ipfsipfs" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/wechat.svg" />][mygithub] ipfsipfs
 
-[<img align="left" alt="wechat:ipfsipfs" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/telegram.png" />][mygithub] ipfsipfs
+[<img align="left" alt="telegram:ipfsipfs" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/telegram.png" />][mygithub] ipfsipfs
 
 ### Languages and Tools
 [<img align="left" alt="golang" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/go.svg" />][go]
