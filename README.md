@@ -1,15 +1,16 @@
 ### Hi there, I'm Dean.👋
+（You can also call me Aaron, to remeber Aaron Swartz.) 
 
 - 🔭 I’m currently working on substrate, my own blockchain project 
 - 🌱 I’m currently learning everything 🤣
-- 🤔 I’m looking for ...
-- 💬 Ask me about ... I know nothing
+- 🤔 I’m looking for ... I think I am a wanderer
+- 💬 Ask me about ... I know nothing, try Google
 - 😄 2021 Goals: mybank.network online and have 100k users
 - ⚡ Fun fact: love history and Tech
 
 ### Contact 
 
-telegram: mybanknetwork
+Telegram: @mybanknetwork
 
 ### Languages and Tools
 [<img align="left" alt="golang" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/go.svg" />][go]
