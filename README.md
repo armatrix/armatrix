@@ -7,6 +7,10 @@
 - 😄 2021 Goals: mybank.network online and have 100k users
 - ⚡ Fun fact: love history and Tech
 
+### Contact 
+
+telegram: mybanknetwork
+
 ### Languages and Tools
 [<img align="left" alt="golang" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/go.svg" />][go]
 [<img align="left" alt="docker" width="26px" src="https://github.com/armatrix/armatrix/blob/master/README.assets/docker.svg" />][docker]
